@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://portfolio-git-main-satyaakants-projects.vercel.app/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://satyakant.vercel.app/)
 <h1 align="center">Hi 👋, I'm Satya kant mishra</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src ="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Dev ops**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-git-main-satyaakants-projects.vercel.app/](https://portfolio-git-main-satyaakants-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://satyakant.vercel.app/](https://satyakant.vercel.app/)
 
 - 💬 Ask me about **react , django and data structures**
 
 - 📫 How to reach me **satyakantmishra50@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-git-main-satyaakants-projects.vercel.app/](https://portfolio-git-main-satyaakants-projects.vercel.app/)
+- 📄 Know about my experiences [https://satyakant.vercel.app/](https://satyakant.vercel.app/)
 
 - ⚡ Fun fact **I sleep while coding**
 
